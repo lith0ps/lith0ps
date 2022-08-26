@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on ...
+
+- CSSLP Certification 
+- AWS Security Specialty Certification
+- VRChat & Discord integration 😉
+
+🌱 I’m currently learning ...
+
+- AWS WAF 
+- Neural Networks
+- CMMC 
+
+📝 Check out my tutorials...
+
+- [AWS WAF Quick Start](_blog/2022-09-21-aws-waf-quick-start.md) 
